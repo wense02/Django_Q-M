@@ -1,3 +1,3 @@
 # Django_Q-M
 
-## An addition of Querysets and Managers to Django APIs
+An addition of Querysets and Managers to Django APIs
